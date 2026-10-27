@@ -1,0 +1,11 @@
+# Keil 编译中间文件
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.uvguix.*
+*.uvoptx
+*.hex
+*.axf
+*.o
+*.d
